@@ -1,0 +1,9 @@
+# Existing entries
+# ... existing code ...
+
+# Database files
+*.mv.db
+*.trace.db
+
+# IDE files
+.idea/ 
