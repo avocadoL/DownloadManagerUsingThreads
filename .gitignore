@@ -6,4 +6,7 @@
 *.trace.db
 
 # IDE files
-.idea/ 
+.idea/
+
+# Downloads folder
+downloads/ 
